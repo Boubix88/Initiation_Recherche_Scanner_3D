@@ -15,7 +15,7 @@ Dans chaque dossier correspondant à un type de scan, il y a des fichiers python
 > - Le rapport PDF, Latex et le diapo pptx, PDF sont disponibles dans le dossier "Rapport_Diapo".
 > - Un exemple de chaque méthode utilisée est disponible dans le dossier "Resultats".
 
-# Rendu
+# Exemple pour chacune des méthodes
 Exmeple Kitti Dataset
 ![](https://raw.githubusercontent.com/Boubix88/Initiation_Recherche_Scanner_3D/master/Resultats/kitti_result.png)
 
