@@ -13,7 +13,7 @@ Dans chaque dossier correspondant à un type de scan, il y a des fichiers python
 # Description
 > [!NOTE]
 > - Le rapport PDF, Latex et le diapo pptx, PDF sont disponibles dans le dossier "Rapport_Diapo".
-> - Un exemple de chaque méthode utilisée est disponible dans le dossier "Resultats".
+> - Un exemple de chaque méthode utilisée est disponible dans le dossier "Resultats" (ou ci-dessous).
 
 # Exemple pour chacune des méthodes
 Exmeple Kitti Dataset
